@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**habidbesp/habidbesp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**habidbesp/habidbesp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 ### What I'm focusing on 
 
-Currently improving my CSS-HTML skills
+- Currently improving my CSS-HTML skills
 
-
-- <a href="https://www.facebook.com/habid.bespinosa/"><img src="https://img.shields.io/badge/facebook%20@saviomartin.1694-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+### Contact me:
+<a href="https://www.facebook.com/habid.bespinosa/"><img src="https://img.shields.io/badge/facebook%20@habid_b_espinosa-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
