@@ -12,6 +12,9 @@ Here are some ideas to get you started:-->
 
 - Currently improving my CSS-HTML skills
 
+<img src="https://github-readme-stats.vercel.app/api?username=habidbesp&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habidbesp&theme=radical&title_color=8E2DE2&text_color=fff"/>
+
 ### Contact me:
 <a href="https://www.facebook.com/habid.bespinosa/"><img src="https://img.shields.io/badge/facebook%20@habid_b_espinosa-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 
