@@ -4,7 +4,7 @@
 <!-- **habidbesp/habidbesp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started: -->
 
-- 🌱 I’m currently looking for a position as Fullstack Web Developer.
+- 🌱 I’m currently looking for a position as a Fullstack Web Developer.
 - 💬 Ask me about Back-end (MongoDB, Mongoose.JS, Express.JS, and Node.JS), Front-end (CSS/SASS, Bootstrap, React.JS).
 - 😄 Languages: Spanish(mother language) German (90%) English (80%)
 
