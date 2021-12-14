@@ -18,7 +18,3 @@ Here are some ideas to get you started: -->
 ### Contact me:
 
 <a href="https://www.linkedin.com/in/habidbadillo/"><img src="https://img.shields.io/badge/linkedin%20@habid_b_espinosa-DD2476?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-<a href="https://www.facebook.com/habid.bespinosa/"><img src="https://img.shields.io/badge/facebook%20@habid_b_espinosa-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-
-<a href="https://www.instagram.com/habidbespinosa/"><img src="https://img.shields.io/badge/instagram%20@habid_b_espinosa-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
