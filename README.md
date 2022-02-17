@@ -10,7 +10,7 @@ Here are some ideas to get you started: -->
 
 ### What I'm focusing on 
 
-- Currently improving my JavaScript skills.
+- Currently improving my React skills.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=habidbesp&show_icons=true&theme=radical&title_color=e47405&text_color=fff&icon_color=139fae"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habidbesp&theme=radical&title_color=e47405&text_color=fff"/>
