@@ -14,4 +14,6 @@ Here are some ideas to get you started: -->
 
 ### Contact me:
 
-<a href="https://www.linkedin.com/in/habidbadillo/"><img src="https://img.shields.io/badge/linkedin%20@habid_b_espinosa-DD2476?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/habidbadillo/">
+  <img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="21px"/>"
+</a>
