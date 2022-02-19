@@ -15,5 +15,5 @@ Here are some ideas to get you started: -->
 ### Contact me:
 
 <a href="https://www.linkedin.com/in/habidbadillo/">
-  <img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="21px"/>"
+  <img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40px"/>
 </a>
