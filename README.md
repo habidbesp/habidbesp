@@ -4,7 +4,7 @@
 Here are some ideas to get you started: -->
 
 - 🌱 I’m currently looking for a position as a Fullstack Web Developer.
-- 💬 Ask me about Back-end (MongoDB, Mongoose.JS, Express.JS, and Node.JS), Front-end (CSS/SASS, Bootstrap, React.JS).
+- 💬 Ask me about Back-end (MongoDB, Mongoose.JS, Express.JS), Front-end (CSS/SASS, Bootstrap, React.JS).
 - 😄 Languages: Spanish(mother language) German (90%) English (80%)
 
 ### What I'm focusing on:
