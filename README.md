@@ -6,7 +6,7 @@ Here are some ideas to get you started: -->
 <h1 align="center">Hi 👋, I'm Habid Badillo</h1>
 <h3 align="center">A passionate frontend developer based in Berlin</h3>
 
-- 🔭 I’m currently working on: [Tasks-book](https://github.com/Task-book-app/task-book-client)
+- 🔭 I’m currently working on: [Complete React Developer in 2022 (w/ Redux, Hooks, GraphQL). Zero to Master Academy](https://zerotomastery.io/courses/learn-react/)
 
 - 🌱 I’m currently learning: **GraphQL, Apollo-Client.**
 
