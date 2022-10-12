@@ -8,9 +8,9 @@ Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on: [Complete React Developer in 2022 (w/ Redux, Hooks, GraphQL). Zero to Master Academy](https://zerotomastery.io/courses/learn-react/)
 
-- 🌱 I’m currently learning: **Redux, GraphQL, Apollo-Client, Firebase.**
+- 🌱 I’m currently learning: **TypeScript**
 
-- 👨‍💻 All of my projects are available at: [https://habid-badillo.vercel.app/](https://habid-badillo.vercel.app/)
+- 👨‍💻 My projects are available at: [https://habid-badillo.vercel.app/](https://habid-badillo.vercel.app/)
 
 - 💬 Ask me about: **react, mongodb, sass**
 
