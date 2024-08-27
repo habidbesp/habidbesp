@@ -1,59 +1,35 @@
-### Hi there 👋
+![Header](./github-header-image.png)
 
-<!-- **habidbesp/habidbesp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started: -->
+_Passionate about tackling complex challenges. Highly motivated to apply my previous experiences to new tasks and to further develop my knowledge and technical skills within an innovative team. Focused on deepening my understanding of MERN technologies (MongoDB, Express.js, React, Node.js) and committed to continuous learning and improvement in the dynamic field of software development._
 
-<h1 align="center">Hi 👋, I'm Habid Badillo</h1>
-<h3 align="center">A passionate frontend developer based in Berlin</h3>
+## 👨🏻‍💻 TOOLS AND TECHNOLOGIES
 
-- 🌱 I’m currently learning: **TypeScript**
+<img alt="Javascript Badge"  src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/>
+<img alt="MongoDB Badge"  src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white"/>
+<img alt="Mongoose Badge"  src="https://img.shields.io/badge/Mongoose-880000.svg?style=for-the-badge&logo=Mongoose&logoColor=white"/>
+<img alt="Express Badge"  src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white"/>
+<img alt="GraphQL Badge"  src="https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=GraphQL&logoColor=white"/>
+<img alt="React Badge"  src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"/>
+<img alt="Redux Badge"  src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white"/>
+<img alt="React Router Badge" src="https://img.shields.io/badge/React%20Router-CA4245.svg?style=for-the-badge&logo=React-Router&logoColor=white"/>
+<img alt="Node Badge"  src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img alt="CSS3 Badge"  src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"/>
+<img alt="SASS Badge"  src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white"/>
+<img alt="Tailwind css Badge"  src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white"/>
+<img alt="GIT Badge"  src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"/>
+<img alt="GitHub Badge"  src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"/>
+<img alt="Figma Badge"  src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white"/>
+<img alt="Canva Badge"  src="https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
 
-- 👨‍💻 My projects are available at: [https://habid-badillo.vercel.app/](https://habid-badillo.vercel.app/)
+## 🔗 Links
 
-- 💬 Ask me about: **react, mongodb, sass**
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://habid-badillo.vercel.app/)
 
-- ⚡ Fun fact: **Pigeons can tell the difference between Picasso and Monet. What?! A 1995 study shows that the birds can differentiate between the two artists.**
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habidbadillo/)
 
-<h3 align="center">Connect with me:</h3>
-<p align="center"">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/habidbadillo/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/habidbadillo/" height="30" width="40" />
-</a>&nbsp; &nbsp;
-<a href="https://fb.com/https://www.facebook.com/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/" height="30" width="40" />
-</a>&nbsp; &nbsp;
-<a href="https://instagram.com/https://www.instagram.com/habidbespinosa/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/habidbespinosa/" height="30" width="40" />
-</a>
-</p>
+---
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> &nbsp; &nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> &nbsp; &nbsp;
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> &nbsp; &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> &nbsp; &nbsp;
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> &nbsp; &nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> &nbsp; &nbsp;
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> &nbsp; &nbsp;
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> &nbsp; &nbsp;
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-  </a> 
-</p>
+## 📈 SUMMARY
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=habidbesp&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=habidbesp&theme=dark)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=habidbesp&theme=dark)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=habidbesp&theme=dark)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=habidbesp&theme=dark&utcOffset=8)
