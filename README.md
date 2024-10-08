@@ -5,6 +5,7 @@
 ## 👨🏻‍💻 TOOLS AND TECHNOLOGIES
 
 <p><img alt="Javascript Badge"  src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" style="display: inline;"/>
+<img alt="Typescript Badge"  src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=JavaScript&logoColor=white" style="display: inline;"/>
 <img alt="MongoDB Badge"  src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" style="display: inline;"/>
 <img alt="Mongoose Badge"  src="https://img.shields.io/badge/Mongoose-880000.svg?style=for-the-badge&logo=Mongoose&logoColor=white" style="display: inline;"/>
 <img alt="Express Badge"  src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" style="display: inline;"/>
