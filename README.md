@@ -22,6 +22,9 @@
 <img alt="Figma Badge"  src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" style="display: inline;"/>
 <img alt="Canva Badge"  src="https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" style="display: inline;"/></p>
 
+##  📚 Currently Learning
+<p><img alt="Java Badge"  src="https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" style="display: inline;"/></p>
+
 ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://habid-badillo.vercel.app/)[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habidbadillo/)
