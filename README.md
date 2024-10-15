@@ -25,6 +25,8 @@
 ##  📚 Currently Learning
 <p><img alt="Java Badge"  src="https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" style="display: inline;"/></p>
 
+Follow my progress here! 👉 [Java Learning Journey](https://github.com/habidbesp/java-learning-journey)
+
 ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://habid-badillo.vercel.app/)[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habidbadillo/)
