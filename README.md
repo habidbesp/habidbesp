@@ -33,6 +33,9 @@ Follow my progress here! 👉 [Java Learning Journey](https://github.com/habidbe
 
 ---
 
+## 🥷 Code Wars Rank
+<img alt="Code Wars" src="https://www.codewars.com/users/Habid_Es01/badges/large/" style="display: inline;">
+
 ## 📈 SUMMARY
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=habidbesp&theme=dark) -->
